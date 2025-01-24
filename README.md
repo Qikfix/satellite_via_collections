@@ -6,6 +6,10 @@ This project will help you to install your Satellite, easily!
 
 The goal of this project is to present how to use collections to install your Satellite in a brand new BaseOS.
 
+# Disclaimer
+
+This project scripts are NOT delivered and/or released by Red Hat. This is an independent project to help customers and Red Hat Support team to analyze some data, help with the troubleshooting, or implement something that is not available in the official way at the moment this one was created.
+
 
 # Requirements
 - The server that will be installed Red Hat Satellite, also, the credential to register the machine properly.
